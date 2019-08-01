@@ -1,3 +1,4 @@
 # Bank-Ocr
-Bank Ocr Kata
-this is a test.
+BankOcr Kata
+
+http://codingdojo.org/kata/BankOCR/
